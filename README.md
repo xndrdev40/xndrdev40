@@ -1,5 +1,5 @@
 🌟 Bem-vindo ao meu GitHub!
-![htmlcssjs](https://github.com/user-attachments/assets/3a7fe627-6439-4916-9185-a71ef75405fd)
+
 
 <!-- Substitua o link acima pelo URL da sua imagem de capa hospedada -->
 👋 Sobre mim
