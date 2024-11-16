@@ -1,16 +1,24 @@
-## Hi there 👋
+🌟 Bem-vindo ao meu GitHub!
+![htmlcssjs](https://github.com/user-attachments/assets/3a7fe627-6439-4916-9185-a71ef75405fd)
 
-<!--
-**xndrdev40/xndrdev40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Substitua o link acima pelo URL da sua imagem de capa hospedada -->
+👋 Sobre mim
+Sou um desenvolvedor Full Stack em formação, em transição de carreira após mais de 10 anos como consultor de vendas. Apaixonado por tecnologia, me formei em Análise de Sistemas para dar o primeiro passo rumo ao desenvolvimento de software.
 
-Here are some ideas to get you started:
+🎯 Atualmente, estou focado no aprendizado de:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+CSS
+JavaScript
+Estou entusiasmado para criar projetos que aliam design funcional e código bem estruturado.
+
+🚀 Habilidades e Objetivos
+🌱 Estudando: Desenvolvimento Web Full Stack.
+💼 Experiência anterior: Mais de 10 anos em vendas, com habilidades em comunicação e resolução de problemas.
+🌟 Objetivo: Contribuir para projetos inovadores, aprender com equipes incríveis e crescer na área de desenvolvimento de software.
+
+📫 Vamos nos conectar?
+💼 LinkedIn: https://www.linkedin.com/in/alexandre-santos-10368a10b/
+📧 Email: xndrdev40@gmail.com
+💡 “O aprendizado é contínuo, e cada linha de código é um passo para o futuro.”
+
